@@ -2979,3 +2979,497 @@ Sampler Limit: 32
 [2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.38.29:793][614]LogEditorTransaction: Undo Move Node
+[2026.03.10-00.38.30:280][622]LogEditorTransaction: Undo Create Reroute Node
+[2026.03.10-00.40.33:952][ 96]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2026.03.10-00.40.33:959][ 96]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.10-00.40.36:739][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.10-00.40.37:615][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.40.37:668][505]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.40.37:729][505]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.40.37:729][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.40.37:734][505]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.40.37:734][505]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target7FF112B2484A4888E16D5DA42A7C6557.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.40.37:741][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.613 ms (total: 1.11 sec)
+[2026.03.10-00.40.37:800][505]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.40.37:800][505]LogContentValidation: Enabled validators:
+[2026.03.10-00.40.37:800][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.40.37:800][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.40.37:800][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.40.37:800][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.40.37:800][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.40.37:800][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.40.37:800][505]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.40.44:831][323]LogPSOHitching: Encountered 150 PSO creation hitches so far (58 graphics, 92 compute). 0 of them were precached.
+[2026.03.10-00.40.55:677][605]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-00.40.55:682][605]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.10-00.40.55:682][605]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2026.03.10-00.40.55:683][605]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2026.03.10-00.40.55:683][605]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 708 us (total: 5.444 ms)
+[2026.03.10-00.40.55:684][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-00.40.55:712][605]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.40.55:722][605]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.10-00.40.55:723][605]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.635 ms (total: 8.159 ms)
+[2026.03.10-00.40.55:723][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011312s)
+[2026.03.10-00.40.55:723][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.011347s)
+[2026.03.10-00.40.55:742][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.10-00.40.55:745][605]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2026.03.10-00.40.55:748][605]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.10-00.40.55:748][605]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.10-00.40.55:748][605]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.10-00.40.55:748][605]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.10-00.40.55:750][605]LogWorldPartition: Display: WorldPartition initialize took 2.077 ms (total: 601.458 ms)
+[2026.03.10-00.40.55:750][605]LogPlayLevel: PIE: World Init took: (0.003517s)
+[2026.03.10-00.40.55:750][605]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.10-00.40.55:750][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-00.40.55:750][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-00.40.55:750][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-00.40.55:750][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-00.40.55:750][605]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-00.40.55:750][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-00.40.55:750][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-00.40.55:750][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-00.40.55:750][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-00.40.55:751][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-00.40.55:751][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-00.40.55:752][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-00.40.55:790][605]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.03.10-00.40.55:790][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-00.40.55:790][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-00.40.55:790][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-00.40.55:791][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.03.10-00.40.55:791][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.03.10-00.40.55:792][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.03.10-00.40.55:792][605]LogInit: FAudioDevice initialized with ID 6.
+[2026.03.10-00.40.55:792][605]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ArenaShooter'.
+[2026.03.10-00.40.55:792][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.03.10-00.40.55:792][605]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.10-00.40.55:795][605]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.03.10-00.40.55:798][605]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2026.03.10-11.40.55
+[2026.03.10-00.40.55:798][605]LogWorld: Bringing up level for play took: 0.003065
+[2026.03.10-00.40.55:800][605]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.03.10-00.40.55:805][605]PIE: Server logged in
+[2026.03.10-00.40.55:807][605]PIE: Play in editor total start time 0.125 seconds.
+[2026.03.10-00.40.55:838][606]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.10-00.43.02:042][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.43.02:042][732]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.43.02:042][732]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.10-00.43.02:042][732]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-00.43.02:043][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.43.02:043][732]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2026.03.10-00.43.02:048][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-00.43.02:053][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.43.02:071][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.43.02:071][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.10-00.43.02:071][732]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.03.10-00.43.02:073][732]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.03.10-00.43.02:081][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.10-00.43.02:109][733]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.03.10-00.45.32:204][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.10-00.45.32:209][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.025
+[2026.03.10-00.45.32:210][301]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.45.32:271][301]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.45.32:271][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.45.32:277][301]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/Blueprints/BP_Target_Auto5
+[2026.03.10-00.45.32:277][301]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target_Auto5D3AC52AD436FC8FF4123F0B60E321FC8.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/Blueprints/BP_Target_Auto5.uasset'
+[2026.03.10-00.45.32:278][301]LogFileHelpers: Auto-saving content packages took 0.068
+[2026.03.10-00.49.01:144][366]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2026.03.10-00.49.01:150][366]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.10-00.50.36:716][653]LogStreaming: Display: FlushAsyncLoading(891): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-00.52.39:572][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.10-00.52.40:835][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.52.40:865][ 80]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.52.40:893][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.52.40:894][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.52.40:902][ 80]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.52.40:902][ 80]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target9194FD3C4AAD78061C1C5FA56127B07D.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.52.40:908][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.054 ms (total: 1.18 sec)
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: Enabled validators:
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.52.40:964][ 80]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.52.40:964][ 80]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.52.46:956][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-00.52.46:963][761]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.10-00.52.46:963][761]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2026.03.10-00.52.46:964][761]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2026.03.10-00.52.46:964][761]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 725 us (total: 6.170 ms)
+[2026.03.10-00.52.46:965][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-00.52.46:999][761]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.52.47:008][761]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.10-00.52.47:009][761]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.621 ms (total: 9.781 ms)
+[2026.03.10-00.52.47:009][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009944s)
+[2026.03.10-00.52.47:009][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.009979s)
+[2026.03.10-00.52.47:028][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.10-00.52.47:031][761]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2026.03.10-00.52.47:033][761]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.10-00.52.47:033][761]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.10-00.52.47:033][761]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.10-00.52.47:033][761]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.10-00.52.47:036][761]LogWorldPartition: Display: WorldPartition initialize took 2.059 ms (total: 603.518 ms)
+[2026.03.10-00.52.47:036][761]LogPlayLevel: PIE: World Init took: (0.003460s)
+[2026.03.10-00.52.47:036][761]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.03.10-00.52.47:036][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-00.52.47:036][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-00.52.47:036][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-00.52.47:036][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-00.52.47:036][761]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-00.52.47:036][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-00.52.47:036][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-00.52.47:036][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-00.52.47:036][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-00.52.47:036][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-00.52.47:036][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-00.52.47:038][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-00.52.47:073][761]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.03.10-00.52.47:073][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-00.52.47:073][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-00.52.47:073][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-00.52.47:073][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.03.10-00.52.47:073][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.03.10-00.52.47:075][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.03.10-00.52.47:075][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.03.10-00.52.47:075][761]LogInit: FAudioDevice initialized with ID 7.
+[2026.03.10-00.52.47:075][761]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ArenaShooter'.
+[2026.03.10-00.52.47:075][761]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.10-00.52.47:077][761]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.03.10-00.52.47:080][761]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2026.03.10-11.52.47
+[2026.03.10-00.52.47:081][761]LogWorld: Bringing up level for play took: 0.003227
+[2026.03.10-00.52.47:082][761]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.03.10-00.52.47:088][761]PIE: Server logged in
+[2026.03.10-00.52.47:089][761]PIE: Play in editor total start time 0.127 seconds.
+[2026.03.10-00.52.47:122][762]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.10-00.52.57:490][  1]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.WorldSettings.ParticleSystemComponent_0 (/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.3dParticleOpacity_Particle) may stay in world despite never spawning particles after burst spawning is over.
+[2026.03.10-00.53.07:529][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.53.07:529][196]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.53.07:529][196]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.10-00.53.07:529][196]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-00.53.07:530][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.53.07:530][196]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2026.03.10-00.53.07:538][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-00.53.07:543][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.53.07:562][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.53.07:562][196]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.10-00.53.07:563][196]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.03.10-00.53.07:564][196]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.03.10-00.53.07:570][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.10-00.53.07:631][197]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.03.10-00.53.22:972][898]LogStreaming: Display: FlushAsyncLoading(892): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-00.53.26:852][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.10-00.53.27:704][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.53.27:747][423]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.53.27:776][423]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.53.27:776][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.53.27:784][423]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.53.27:784][423]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target63C6C5E441BAA43D796B5CBFC058B28C.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.53.27:790][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.666 ms (total: 1.27 sec)
+[2026.03.10-00.53.27:848][423]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.53.27:848][423]LogContentValidation: Enabled validators:
+[2026.03.10-00.53.27:848][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.53.27:848][423]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.53.27:848][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.53.27:848][423]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.53.27:848][423]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.53.27:848][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.53.27:848][423]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.53.31:243][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-00.53.31:249][820]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.10-00.53.31:249][820]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2026.03.10-00.53.31:250][820]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2026.03.10-00.53.31:250][820]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 683 us (total: 6.854 ms)
+[2026.03.10-00.53.31:251][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-00.53.31:289][820]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.53.31:297][820]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.10-00.53.31:298][820]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.602 ms (total: 11.384 ms)
+[2026.03.10-00.53.31:298][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009552s)
+[2026.03.10-00.53.31:298][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.009590s)
+[2026.03.10-00.53.31:317][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.10-00.53.31:320][820]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2026.03.10-00.53.31:321][820]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.10-00.53.31:321][820]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.10-00.53.31:321][820]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.10-00.53.31:321][820]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.10-00.53.31:323][820]LogWorldPartition: Display: WorldPartition initialize took 2.330 ms (total: 605.848 ms)
+[2026.03.10-00.53.31:325][820]LogPlayLevel: PIE: World Init took: (0.003767s)
+[2026.03.10-00.53.31:325][820]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.03.10-00.53.31:325][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-00.53.31:325][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-00.53.31:325][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-00.53.31:325][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-00.53.31:325][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-00.53.31:325][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-00.53.31:325][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-00.53.31:325][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-00.53.31:325][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-00.53.31:325][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-00.53.31:325][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-00.53.31:327][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-00.53.31:360][820]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.03.10-00.53.31:360][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-00.53.31:360][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-00.53.31:360][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-00.53.31:360][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.03.10-00.53.31:360][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.03.10-00.53.31:362][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.03.10-00.53.31:362][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.03.10-00.53.31:362][820]LogInit: FAudioDevice initialized with ID 8.
+[2026.03.10-00.53.31:362][820]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ArenaShooter'.
+[2026.03.10-00.53.31:362][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.10-00.53.31:364][820]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.03.10-00.53.31:367][820]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2026.03.10-11.53.31
+[2026.03.10-00.53.31:368][820]LogWorld: Bringing up level for play took: 0.003268
+[2026.03.10-00.53.31:370][820]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.03.10-00.53.31:375][820]PIE: Server logged in
+[2026.03.10-00.53.31:377][820]PIE: Play in editor total start time 0.127 seconds.
+[2026.03.10-00.53.31:408][821]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.10-00.54.23:329][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.54.23:329][ 35]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.54.23:329][ 35]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.10-00.54.23:329][ 35]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-00.54.23:330][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.54.23:330][ 35]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2026.03.10-00.54.23:338][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-00.54.23:342][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.54.23:360][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.54.23:360][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.10-00.54.23:360][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.03.10-00.54.23:362][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.03.10-00.54.23:369][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.10-00.54.23:420][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Total job queries 3,089, among them cache hits 853 (27.61%), DDC hits 1,546 (50.05%), Duplicates 192 (6.22%)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Tracking 2,044 distinct input hashes that result in 1,324 distinct outputs (64.77%)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: RAM used: 13.09 MiB of 3.10 GiB budget. Usage: 0.41%
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Shaders Compiled: 498
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Jobs assigned 498, completed 498 (100%)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Average time worker was idle: 147.99 s
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Time job spent in pending queue: average 1.65 s, longest 6.88 s
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 5.76 s
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Job life time (pending + execution): average 3.23 s, max 7.71
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Shader code size: total 4.89 MiB, numShaders 529, average 9.466 KiB, min 1.727 KiB, max 51.403 KiB
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.57 s
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.46%
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Jobs were issued in 227 batches (only local compilation was used), average 2.19 jobs/batch
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Average processing rate: 14.00 jobs/sec
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Total thread time: 168.21 s
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Total thread preprocess time: 28.228 s
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Percentage time preprocessing: 16.78%
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Effective parallelization: 4.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.394134
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.07 sec, max 1.29 sec, min 0.54 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.58% of total time (compiled   66 times, average 0.30 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.16% of total time (compiled   29 times, average 0.59 sec, max 0.91 sec, min 0.44 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.57% of total time (compiled   12 times, average 0.92 sec, max 1.16 sec, min 0.69 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                                  FVelocityPS - 6.48% of total time (compiled   29 times, average 0.38 sec, max 0.58 sec, min 0.23 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.84% of total time (compiled   51 times, average 0.19 sec, max 0.37 sec, min 0.08 sec)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Materials Translated:    227
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.55.06:300][905]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.55.30:467][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.10-00.55.31:059][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.55.31:087][782]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.55.31:151][782]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.55.31:151][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.55.31:159][782]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.55.31:159][782]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target53E4ADF04997F0552CB4B2ADD75C3124.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.55.31:166][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.862 ms (total: 1.38 sec)
+[2026.03.10-00.55.31:220][782]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.55.31:220][782]LogContentValidation: Enabled validators:
+[2026.03.10-00.55.31:220][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.55.31:220][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.55.31:220][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.55.31:220][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.55.31:220][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.55.31:220][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.55.31:220][782]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.55.36:529][384]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-00.55.36:536][384]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.10-00.55.36:536][384]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2026.03.10-00.55.36:536][384]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2026.03.10-00.55.36:536][384]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 666 us (total: 7.521 ms)
+[2026.03.10-00.55.36:538][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-00.55.36:558][384]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.55.36:566][384]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.10-00.55.36:567][384]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.658 ms (total: 13.042 ms)
+[2026.03.10-00.55.36:567][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009596s)
+[2026.03.10-00.55.36:567][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.009625s)
+[2026.03.10-00.55.36:586][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.10-00.55.36:590][384]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2026.03.10-00.55.36:591][384]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.10-00.55.36:591][384]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.10-00.55.36:591][384]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.10-00.55.36:591][384]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.10-00.55.36:593][384]LogWorldPartition: Display: WorldPartition initialize took 2.127 ms (total: 607.976 ms)
+[2026.03.10-00.55.36:593][384]LogPlayLevel: PIE: World Init took: (0.003532s)
+[2026.03.10-00.55.36:595][384]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.03.10-00.55.36:595][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-00.55.36:595][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-00.55.36:595][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-00.55.36:595][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-00.55.36:595][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-00.55.36:595][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-00.55.36:595][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-00.55.36:595][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-00.55.36:595][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-00.55.36:595][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-00.55.36:595][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-00.55.36:596][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-00.55.36:634][384]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.03.10-00.55.36:634][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-00.55.36:635][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-00.55.36:635][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-00.55.36:635][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.03.10-00.55.36:635][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.03.10-00.55.36:636][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.03.10-00.55.36:636][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.03.10-00.55.36:636][384]LogInit: FAudioDevice initialized with ID 9.
+[2026.03.10-00.55.36:636][384]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_ArenaShooter'.
+[2026.03.10-00.55.36:636][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.10-00.55.36:639][384]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.03.10-00.55.36:642][384]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2026.03.10-11.55.36
+[2026.03.10-00.55.36:643][384]LogWorld: Bringing up level for play took: 0.003189
+[2026.03.10-00.55.36:644][384]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.03.10-00.55.36:650][384]PIE: Server logged in
+[2026.03.10-00.55.36:652][384]PIE: Play in editor total start time 0.116 seconds.
+[2026.03.10-00.55.36:684][385]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.10-00.55.42:458][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.55.42:458][ 70]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.55.42:458][ 70]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.10-00.55.42:459][ 70]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-00.55.42:460][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.55.42:460][ 70]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2026.03.10-00.55.42:467][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-00.55.42:472][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.55.42:492][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.10-00.55.42:492][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.10-00.55.42:492][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.03.10-00.55.42:494][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.03.10-00.55.42:497][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.55.42:500][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.10-00.55.42:553][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.03.10-00.55.48:931][780]LogContentBrowser: Deferred new asset file creation: BP_Target_Child
+[2026.03.10-00.55.48:939][780]LogContentBrowser: Creating deferred item: BP_Target_Child
+[2026.03.10-00.55.48:950][781]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Target_Child).
+[2026.03.10-00.55.56:840][723]LogContentBrowser: Attempting asset rename: BP_Target_Child -> BP_Target_Child_Blue
+[2026.03.10-00.55.56:845][723]LogContentBrowser: End creating deferred item BP_Target_Child
+[2026.03.10-00.55.56:846][723]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.10-00.55.58:224][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0_FPS/Blueprints/BP_Target_Child_Blue.BP_Target_Child_Blue
+[2026.03.10-00.55.58:224][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.10-00.57.19:436][184]LogContentBrowser: Attempting asset rename: M_Target_Blue -> MI_Target_Blue
+[2026.03.10-00.57.19:505][184]LogMaterial: Display: MaterialInterface M_Target_Blue has a incorrectly name EditorOnlyData 'M_Target_BlueEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_Target_BlueEditorOnlyData'.
+[2026.03.10-00.57.19:532][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.57.19:532][184]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Materials/MI_Target_Blue] ([1] browsable assets)...
+[2026.03.10-00.57.19:532][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Materials/MI_Target_Blue]
+[2026.03.10-00.57.19:534][184]LogSavePackage: Moving output files for package: /Game/0_FPS/Materials/MI_Target_Blue
+[2026.03.10-00.57.19:534][184]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/MI_Target_Blue273F1CD84081E029925138BAAEE0CC03.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/MI_Target_Blue.uasset'
+[2026.03.10-00.57.19:535][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.014 ms (total: 1.38 sec)
+[2026.03.10-00.57.19:586][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.10-00.57.19:607][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.10-00.57.19:626][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.10-00.57.19:664][184]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.57.19:664][184]LogContentValidation: Enabled validators:
+[2026.03.10-00.57.19:664][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.57.19:664][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.57.19:664][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.57.19:664][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.57.19:664][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.57.19:664][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.57.19:664][184]AssetCheck: /Game/0_FPS/Materials/MI_Target_Blue Validating asset
+[2026.03.10-00.57.19:711][184]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.57.34:179][808]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.03.10-00.57.34:185][808]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.03.10-00.57.34:636][858]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.03.10-00.57.34:641][858]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.03.10-00.57.35:184][920]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.03.10-00.57.35:190][920]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Total job queries 3,153, among them cache hits 868 (27.53%), DDC hits 1,566 (49.67%), Duplicates 192 (6.09%)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Tracking 2,093 distinct input hashes that result in 1,358 distinct outputs (64.88%)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: RAM used: 13.40 MiB of 3.10 GiB budget. Usage: 0.42%
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Shaders Compiled: 527
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Jobs assigned 527, completed 527 (100%)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Average time worker was idle: 144.94 s
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Time job spent in pending queue: average 1.57 s, longest 6.88 s
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 5.76 s
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Job life time (pending + execution): average 3.08 s, max 7.71
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Shader code size: total 5.162 MiB, numShaders 561, average 9.423 KiB, min 1.727 KiB, max 51.403 KiB
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.47 s
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.43%
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Jobs were issued in 256 batches (only local compilation was used), average 2.06 jobs/batch
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Average processing rate: 11.85 jobs/sec
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Total thread time: 179.511 s
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Total thread preprocess time: 28.732 s
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Percentage time preprocessing: 16.01%
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Effective parallelization: 4.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.336373
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.07 sec, max 1.29 sec, min 0.54 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.68% of total time (compiled   78 times, average 0.29 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.08% of total time (compiled   31 times, average 0.58 sec, max 0.91 sec, min 0.44 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.42% of total time (compiled   18 times, average 0.84 sec, max 1.16 sec, min 0.64 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                                  FVelocityPS - 6.52% of total time (compiled   31 times, average 0.38 sec, max 0.58 sec, min 0.23 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.99% of total time (compiled   56 times, average 0.19 sec, max 0.37 sec, min 0.08 sec)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Materials Translated:    227
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.58.06:310][413]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.59.01:002][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.10-00.59.01:009][747]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.027
+[2026.03.10-00.59.01:009][747]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target_Child_Blue] ([2] browsable assets)...
+[2026.03.10-00.59.01:015][747]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target_Child_Blue.BP_Target_Child_Blue]
+[2026.03.10-00.59.01:015][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target_Child_Blue]
+[2026.03.10-00.59.01:018][747]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/Blueprints/BP_Target_Child_Blue_Auto6
+[2026.03.10-00.59.01:018][747]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target_Child_Blue_Auto6E82AF7FE4DF020942202CF9E1C3C60FE.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/Blueprints/BP_Target_Child_Blue_Auto6.uasset'
+[2026.03.10-00.59.01:020][747]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.03.10-01.03.27:742][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.03.10-01.03.28:915][720]LogSlate: Window 'Save Content' being destroyed
+[2026.03.10-01.03.28:920][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-01.03.28:980][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target_Child_Blue] ([2] browsable assets)...
+[2026.03.10-01.03.28:980][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target_Child_Blue]
+[2026.03.10-01.03.28:983][720]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target_Child_Blue
+[2026.03.10-01.03.28:983][720]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target_Child_BlueDC946E3548BF00D5ED84C3A267994AFE.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target_Child_Blue.uasset'
+[2026.03.10-01.03.28:990][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.751 ms (total: 1.45 sec)
+[2026.03.10-01.03.29:047][720]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-01.03.29:047][720]LogContentValidation: Enabled validators:
+[2026.03.10-01.03.29:047][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-01.03.29:047][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-01.03.29:047][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-01.03.29:047][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-01.03.29:047][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-01.03.29:047][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-01.03.29:047][720]AssetCheck: /Game/0_FPS/Blueprints/BP_Target_Child_Blue Validating asset
+[2026.03.10-01.03.29:061][720]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
