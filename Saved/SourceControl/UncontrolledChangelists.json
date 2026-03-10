@@ -38,7 +38,21 @@
 				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Red.uasset",
 				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Yellow.uasset",
 				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Audio/MP3_Explosion_Big.uasset",
-				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Audio/MP3_Explosions_Small.uasset"
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Audio/MP3_Explosions_Small.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Audio/MP3_Explosions_Small.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Audio/MP3_Explosion_Big.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Yellow.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Red.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Purple.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Pink.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Orange.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Green.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Blue.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/M_Target.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/MI_Target_Red.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/M_Target_Blue.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset",
+				"C:/Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/WV/LZYSHE1YP2FMK3JC2DXNNM.uasset"
 			]
 		}
 	]

@@ -1888,3 +1888,1094 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.10-00.03.22:515][918]AssetCheck: /Game/Audio/MP3_Explosion_Big Validating asset
 [2026.03.10-00.03.22:515][918]AssetCheck: /Game/Audio/MP3_Explosions_Small Validating asset
 [2026.03.10-00.03.22:529][918]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.05.02:598][699]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.10-00.05.02:615][699]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.10-00.05.02:623][700]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.10-00.05.17:638][502]LogContentBrowser: Attempting asset rename: NewFolder -> 0_FPS
+[2026.03.10-00.05.17:638][502]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.10-00.05.26:322][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.05.26:322][474]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Audio/MP3_Explosions_Small] ([1] browsable assets)...
+[2026.03.10-00.05.26:322][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Audio/MP3_Explosions_Small]
+[2026.03.10-00.05.26:324][474]LogSavePackage: Moving output files for package: /Game/0_FPS/Audio/MP3_Explosions_Small
+[2026.03.10-00.05.26:324][474]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/MP3_Explosions_SmallDE64D9DF461567140DEB5E95A7F26FC8.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Audio/MP3_Explosions_Small.uasset'
+[2026.03.10-00.05.26:325][474]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Audio/MP3_Explosion_Big] ([1] browsable assets)...
+[2026.03.10-00.05.26:325][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Audio/MP3_Explosion_Big]
+[2026.03.10-00.05.26:327][474]LogSavePackage: Moving output files for package: /Game/0_FPS/Audio/MP3_Explosion_Big
+[2026.03.10-00.05.26:327][474]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/MP3_Explosion_Big03347B774C793989ADC950867DA355EE.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Audio/MP3_Explosion_Big.uasset'
+[2026.03.10-00.05.26:328][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.106 ms (total: 239.784 ms)
+[2026.03.10-00.05.26:374][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.10-00.05.26:385][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.10-00.05.26:396][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.05.26:422][474]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.10-00.05.26:422][474]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.10-00.05.26:422][474]LogContentValidation: Enabled validators:
+[2026.03.10-00.05.26:422][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.05.26:422][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.05.26:422][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.05.26:422][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.05.26:422][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.05.26:422][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.05.26:422][474]AssetCheck: /Game/0_FPS/Audio/MP3_Explosions_Small Validating asset
+[2026.03.10-00.05.26:422][474]AssetCheck: /Game/0_FPS/Audio/MP3_Explosion_Big Validating asset
+[2026.03.10-00.05.26:445][474]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.05.29:771][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.05.29:771][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Textures/T_Target_Yellow] ([1] browsable assets)...
+[2026.03.10-00.05.29:771][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Textures/T_Target_Yellow]
+[2026.03.10-00.05.29:776][829]LogSavePackage: Moving output files for package: /Game/0_FPS/Textures/T_Target_Yellow
+[2026.03.10-00.05.29:776][829]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Yellow455C13E24D495919A12C148E6FF96D41.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Yellow.uasset'
+[2026.03.10-00.05.29:777][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Textures/T_Target_Red] ([1] browsable assets)...
+[2026.03.10-00.05.29:777][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Textures/T_Target_Red]
+[2026.03.10-00.05.29:782][829]LogSavePackage: Moving output files for package: /Game/0_FPS/Textures/T_Target_Red
+[2026.03.10-00.05.29:782][829]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_RedD3AA8A3544F87700257B94B0D6E451B5.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Red.uasset'
+[2026.03.10-00.05.29:782][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Textures/T_Target_Purple] ([1] browsable assets)...
+[2026.03.10-00.05.29:782][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Textures/T_Target_Purple]
+[2026.03.10-00.05.29:787][829]LogSavePackage: Moving output files for package: /Game/0_FPS/Textures/T_Target_Purple
+[2026.03.10-00.05.29:787][829]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Purple8408B3FE4B89D17FFFD8218FD2304030.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Purple.uasset'
+[2026.03.10-00.05.29:788][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Textures/T_Target_Pink] ([1] browsable assets)...
+[2026.03.10-00.05.29:789][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Textures/T_Target_Pink]
+[2026.03.10-00.05.29:793][829]LogSavePackage: Moving output files for package: /Game/0_FPS/Textures/T_Target_Pink
+[2026.03.10-00.05.29:793][829]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Pink0FF5AAEE485712F770AC6191ACCB3F5A.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Pink.uasset'
+[2026.03.10-00.05.29:794][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Textures/T_Target_Orange] ([1] browsable assets)...
+[2026.03.10-00.05.29:794][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Textures/T_Target_Orange]
+[2026.03.10-00.05.29:800][829]LogSavePackage: Moving output files for package: /Game/0_FPS/Textures/T_Target_Orange
+[2026.03.10-00.05.29:800][829]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Orange32F8B4264CCF4F716122DC8546D982C3.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Orange.uasset'
+[2026.03.10-00.05.29:801][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Textures/T_Target_Green] ([1] browsable assets)...
+[2026.03.10-00.05.29:801][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Textures/T_Target_Green]
+[2026.03.10-00.05.29:805][829]LogSavePackage: Moving output files for package: /Game/0_FPS/Textures/T_Target_Green
+[2026.03.10-00.05.29:805][829]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_GreenCF8C76D74156599B8219D099D81A47EC.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Green.uasset'
+[2026.03.10-00.05.29:806][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Textures/T_Target_Blue] ([1] browsable assets)...
+[2026.03.10-00.05.29:806][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Textures/T_Target_Blue]
+[2026.03.10-00.05.29:811][829]LogSavePackage: Moving output files for package: /Game/0_FPS/Textures/T_Target_Blue
+[2026.03.10-00.05.29:811][829]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Blue3F0063C54AA62C80079346A68ECCFBB3.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Textures/T_Target_Blue.uasset'
+[2026.03.10-00.05.29:812][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.301 ms (total: 281.086 ms)
+[2026.03.10-00.05.29:904][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.10-00.05.29:915][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.10-00.05.29:925][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.05.29:953][829]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.10-00.05.29:953][829]LogContentValidation: Display: Starting to validate 7 assets
+[2026.03.10-00.05.29:953][829]LogContentValidation: Enabled validators:
+[2026.03.10-00.05.29:953][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.05.29:953][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.05.29:953][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.05.29:953][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.05.29:953][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.05.29:953][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.05.29:953][829]AssetCheck: /Game/0_FPS/Textures/T_Target_Yellow Validating asset
+[2026.03.10-00.05.29:953][829]AssetCheck: /Game/0_FPS/Textures/T_Target_Red Validating asset
+[2026.03.10-00.05.29:953][829]AssetCheck: /Game/0_FPS/Textures/T_Target_Purple Validating asset
+[2026.03.10-00.05.29:953][829]AssetCheck: /Game/0_FPS/Textures/T_Target_Pink Validating asset
+[2026.03.10-00.05.29:953][829]AssetCheck: /Game/0_FPS/Textures/T_Target_Orange Validating asset
+[2026.03.10-00.05.29:953][829]AssetCheck: /Game/0_FPS/Textures/T_Target_Green Validating asset
+[2026.03.10-00.05.29:953][829]AssetCheck: /Game/0_FPS/Textures/T_Target_Blue Validating asset
+[2026.03.10-00.05.29:976][829]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.05.45:211][616]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.10-00.05.45:228][616]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.10-00.05.45:237][617]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.10-00.05.48:348][991]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2026.03.10-00.05.48:348][991]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.10-00.05.54:209][646]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.03.10-00.05.54:215][646]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.03.10-00.05.54:241][648]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.03.10-00.06.11:322][698]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Target
+[2026.03.10-00.06.11:330][698]LogContentBrowser: End creating deferred item NewMaterial
+[2026.03.10-00.06.29:879][833]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/0_FPS/Materials/M_Target.M_Target
+[2026.03.10-00.06.29:910][833]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.03.10-00.06.29:915][833]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-00.06.29:920][833]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.03.10-00.06.29:928][833]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.03.10-00.06.29:938][833]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.03.10-00.06.29:939][833]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.03.10-00.06.30:376][833]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.06.30:376][833]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.10-00.06.30:376][833]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.06.30:376][833]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.06.30:387][833]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.10-00.06.30:463][835]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.10-00.06.30:463][835]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.06.30:463][835]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.10-00.06.30:463][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.10-00.06.30:463][835]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.06.30:463][835]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.06.33:509][153]LogSlate: Window 'M_Target' being destroyed
+[2026.03.10-00.06.35:591][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.10-00.06.35:592][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.028
+[2026.03.10-00.06.35:593][394]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0_FPS/Materials/M_Target] ([1] browsable assets)...
+[2026.03.10-00.06.35:599][394]OBJ SavePackage:     Rendered thumbnail for [Material /Game/0_FPS/Materials/M_Target.M_Target]
+[2026.03.10-00.06.35:599][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Materials/M_Target]
+[2026.03.10-00.06.35:601][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/Materials/M_Target_Auto2
+[2026.03.10-00.06.35:601][394]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/M_Target_Auto24F85D9F8406AF264B55015A499259F8D.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/Materials/M_Target_Auto2.uasset'
+[2026.03.10-00.06.35:601][394]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Total job queries 2,715, among them cache hits 603 (22.21%), DDC hits 1,508 (55.54%), Duplicates 191 (7.03%)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Tracking 1,921 distinct input hashes that result in 1,223 distinct outputs (63.66%)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: RAM used: 12.39 MiB of 3.10 GiB budget. Usage: 0.39%
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Shaders Compiled: 413
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Jobs assigned 413, completed 413 (100%)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Average time worker was idle: 69.69 s
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Time job spent in pending queue: average 1.98 s, longest 6.88 s
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Job execution time: average 1.81 s, max 5.76 s
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Job life time (pending + execution): average 3.79 s, max 7.71
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Shader code size: total 4.124 MiB, numShaders 437, average 9.665 KiB, min 2.246 KiB, max 51.403 KiB
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.27 s
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.53%
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Jobs were issued in 142 batches (only local compilation was used), average 2.91 jobs/batch
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Average processing rate: 21.43 jobs/sec
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Total thread time: 138.167 s
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Total thread preprocess time: 25.446 s
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Percentage time preprocessing: 18.42%
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Effective parallelization: 7.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.597397
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.20 sec, max 1.29 sec, min 1.11 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.64% of total time (compiled   19 times, average 0.63 sec, max 0.91 sec, min 0.47 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.01% of total time (compiled   37 times, average 0.30 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                                  FVelocityPS - 6.22% of total time (compiled   24 times, average 0.36 sec, max 0.44 sec, min 0.23 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.49% of total time (compiled   25 times, average 0.30 sec, max 0.90 sec, min 0.17 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 5.31% of total time (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Materials Translated:    158
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Material Translation Only: 0.03 s (42%)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.07.05:893][853]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.07.35:876][365]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.07.35:876][365]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.10-00.07.35:876][365]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.07.35:876][365]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.07.35:956][367]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.10-00.07.35:957][367]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.07.35:957][367]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.10-00.07.35:957][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.10-00.07.35:957][367]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.07.35:957][367]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.07.52:731][357]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.07.52:731][357]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.07.52:731][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.07.52:731][357]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.07.52:731][357]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.07.52:769][359]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.07.52:769][359]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.07.52:769][359]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.07.52:769][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.07.52:769][359]MaterialEditorStats: Shader Count: 2
+[2026.03.10-00.07.52:769][359]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.07.53:068][395]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.07.53:068][395]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.10-00.07.53:068][395]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.07.53:068][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.07.53:068][395]MaterialEditorStats: Shader Count: 3
+[2026.03.10-00.07.53:068][395]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.07.53:170][404]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.07.53:170][404]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.07.53:170][404]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.07.53:170][404]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.07.53:170][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.07.53:170][404]MaterialEditorStats: Shader Count: 4
+[2026.03.10-00.07.53:170][404]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.08.23:768][ 16]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.08.23:768][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.08.23:768][ 16]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.08.23:768][ 16]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.08.23:768][ 16]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.08.23:800][ 17]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.08.23:800][ 17]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.08.23:800][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.08.23:800][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.08.23:800][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.08.23:800][ 17]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.08.23:800][ 17]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.09:799][530]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.09.09:799][530]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.09:799][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.09:799][530]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.09.09:799][530]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.09:820][533]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.09.09:821][533]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.09:821][533]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.09.09:821][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.09:821][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.09:821][533]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.09.09:821][533]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.31:511][129]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.09.31:511][129]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.31:511][129]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.31:511][129]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.09.31:511][129]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.31:531][132]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.09.31:531][132]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.31:531][132]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.09.31:531][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.31:531][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.31:531][132]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.09.31:531][132]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.36:915][777]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.09.36:915][777]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.36:915][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.36:915][777]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.09.36:915][777]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.36:917][777]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBEE600 with pending SubmitJob call.
+[2026.03.10-00.09.36:918][777]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE5A00 with pending SubmitJob call.
+[2026.03.10-00.09.36:918][777]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBEB400 with pending SubmitJob call.
+[2026.03.10-00.09.36:919][777]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBEC800 with pending SubmitJob call.
+[2026.03.10-00.09.36:920][777]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE9600 with pending SubmitJob call.
+[2026.03.10-00.09.36:929][779]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.36:929][779]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.10-00.09.36:929][779]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.36:929][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.36:929][779]MaterialEditorStats: Shader Count: 3
+[2026.03.10-00.09.36:929][779]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.36:937][780]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.09.36:937][780]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.36:937][780]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.09.36:937][780]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.36:937][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.36:937][780]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.09.36:937][780]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.41:086][276]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.09.41:086][276]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.41:086][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.41:086][276]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.09.41:086][276]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.41:101][278]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.09.41:101][278]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.41:101][278]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.09.41:101][278]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.41:101][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.41:101][278]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.09.41:101][278]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.42:477][442]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.09.42:477][442]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.42:477][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.42:477][442]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.09.42:477][442]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.42:499][445]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.09.42:499][445]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.42:499][445]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.09.42:499][445]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.42:499][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.42:499][445]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.09.42:499][445]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.50:411][393]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.09.50:411][393]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.50:411][393]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.50:411][393]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.09.50:411][393]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.50:414][393]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBEBE00 with pending SubmitJob call.
+[2026.03.10-00.09.50:414][393]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBEF000 with pending SubmitJob call.
+[2026.03.10-00.09.50:415][393]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE1E00 with pending SubmitJob call.
+[2026.03.10-00.09.50:415][393]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE6400 with pending SubmitJob call.
+[2026.03.10-00.09.50:416][394]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE7800 with pending SubmitJob call.
+[2026.03.10-00.09.50:425][395]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.50:425][395]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.10-00.09.50:425][395]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.50:425][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.50:425][395]MaterialEditorStats: Shader Count: 3
+[2026.03.10-00.09.50:425][395]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.50:434][396]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.09.50:434][396]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.09.50:434][396]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.09.50:434][396]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.09.50:434][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.09.50:434][396]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.09.50:434][396]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.09.59:281][454]LogMaterialEditor: Applying material M_Target
+[2026.03.10-00.09.59:340][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.10-00.10.00:256][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.10-00.10.01:372][586]LogMaterialEditor: Saving and Compiling material M_Target
+[2026.03.10-00.10.01:373][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.10.01:411][586]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0_FPS/Materials/M_Target] ([1] browsable assets)...
+[2026.03.10-00.10.01:417][586]OBJ SavePackage:     Rendered thumbnail for [Material /Game/0_FPS/Materials/M_Target.M_Target]
+[2026.03.10-00.10.01:417][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Materials/M_Target]
+[2026.03.10-00.10.01:417][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_FPS/Materials/M_Target" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/M_Target.uasset" SILENT=true
+[2026.03.10-00.10.01:420][586]LogSavePackage: Moving output files for package: /Game/0_FPS/Materials/M_Target
+[2026.03.10-00.10.01:420][586]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/M_Target4A2B2027463339FEFA670F987E8FEEAA.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/M_Target.uasset'
+[2026.03.10-00.10.01:425][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.781 ms (total: 332.867 ms)
+[2026.03.10-00.10.01:477][586]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.10.01:477][586]LogContentValidation: Enabled validators:
+[2026.03.10-00.10.01:477][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.10.01:477][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.10.01:477][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.10.01:477][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.10.01:477][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.10.01:477][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.10.01:477][586]AssetCheck: /Game/0_FPS/Materials/M_Target Validating asset
+[2026.03.10-00.10.01:488][586]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Total job queries 2,807, among them cache hits 685 (24.40%), DDC hits 1,509 (53.76%), Duplicates 192 (6.84%)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Tracking 1,930 distinct input hashes that result in 1,231 distinct outputs (63.78%)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: RAM used: 12.45 MiB of 3.10 GiB budget. Usage: 0.39%
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Shaders Compiled: 421
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Jobs assigned 421, completed 421 (100%)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Average time worker was idle: 70.17 s
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Time job spent in pending queue: average 1.95 s, longest 6.88 s
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Job execution time: average 1.78 s, max 5.76 s
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Job life time (pending + execution): average 3.73 s, max 7.71
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Shader code size: total 4.195 MiB, numShaders 445, average 9.655 KiB, min 2.246 KiB, max 51.403 KiB
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.24 s
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.52%
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Jobs were issued in 150 batches (only local compilation was used), average 2.81 jobs/batch
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Average processing rate: 19.82 jobs/sec
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Total thread time: 140.631 s
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Total thread preprocess time: 26.116 s
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Percentage time preprocessing: 18.57%
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Effective parallelization: 6.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.551730
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.07 sec, max 1.16 sec, min 0.98 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.82% of total time (compiled   20 times, average 0.62 sec, max 0.91 sec, min 0.47 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.22% of total time (compiled   39 times, average 0.30 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                                                  FVelocityPS - 6.11% of total time (compiled   24 times, average 0.36 sec, max 0.44 sec, min 0.23 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.55% of total time (compiled   26 times, average 0.30 sec, max 0.90 sec, min 0.17 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 5.35% of total time (compiled   14 times, average 0.54 sec, max 0.90 sec, min 0.40 sec)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Materials Translated:    186
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Material Translation Only: 0.03 s (42%)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.10.05:897][113]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.10.49:867][180]LogContentBrowser: Deferred new asset file creation: M_Target_Inst
+[2026.03.10-00.10.49:885][180]LogContentBrowser: Creating deferred item: M_Target_Inst
+[2026.03.10-00.10.49:895][181]LogContentBrowser: Renaming the item being created (Deferred Item: M_Target_Inst).
+[2026.03.10-00.11.00:843][495]LogContentBrowser: Attempting asset rename: M_Target_Inst -> MI_Target_Red
+[2026.03.10-00.11.00:843][495]LogContentBrowser: End creating deferred item M_Target_Inst
+[2026.03.10-00.11.06:374][138]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/0_FPS/Materials/MI_Target_Red.MI_Target_Red
+[2026.03.10-00.11.06:376][138]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.03.10-00.11.39:600][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.11.39:644][ 13]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0_FPS/Materials/MI_Target_Red] ([1] browsable assets)...
+[2026.03.10-00.11.39:704][ 13]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/0_FPS/Materials/MI_Target_Red.MI_Target_Red]
+[2026.03.10-00.11.39:704][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Materials/MI_Target_Red]
+[2026.03.10-00.11.39:737][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.10-00.11.39:752][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.10-00.11.39:755][ 13]LogSavePackage: Moving output files for package: /Game/0_FPS/Materials/MI_Target_Red
+[2026.03.10-00.11.39:755][ 13]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/MI_Target_RedB5360A524CA433C9AC71B7943942C544.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/MI_Target_Red.uasset'
+[2026.03.10-00.11.39:762][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.266 ms (total: 494.133 ms)
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: Enabled validators:
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.11.39:810][ 13]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.11.39:810][ 13]AssetCheck: /Game/0_FPS/Materials/MI_Target_Red Validating asset
+[2026.03.10-00.11.39:821][ 13]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.11.49:388][ 96]LogContentBrowser: Deferred new asset file creation: M_Target_Inst
+[2026.03.10-00.11.49:395][ 96]LogContentBrowser: Creating deferred item: M_Target_Inst
+[2026.03.10-00.11.49:405][ 97]LogContentBrowser: Renaming the item being created (Deferred Item: M_Target_Inst).
+[2026.03.10-00.11.51:199][313]LogContentBrowser: Attempting asset rename: M_Target_Inst -> M_Target_Inst
+[2026.03.10-00.11.51:199][313]LogContentBrowser: End creating deferred item M_Target_Inst
+[2026.03.10-00.11.52:223][416]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/0_FPS/Materials/M_Target_Inst.M_Target_Inst
+[2026.03.10-00.11.52:225][416]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.03.10-00.11.54:098][607]Cmd: TRANSACTION UNDO
+[2026.03.10-00.11.54:098][607]LogEditorTransaction: Undo Edit Condition Changed
+[2026.03.10-00.11.54:289][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.10-00.11.54:462][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.10-00.11.55:498][674]Cmd: TRANSACTION UNDO
+[2026.03.10-00.11.55:498][674]LogEditorTransaction: Undo Edit Group
+[2026.03.10-00.11.55:666][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.10-00.11.55:813][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.10-00.11.58:556][989]Cmd: TRANSACTION UNDO
+[2026.03.10-00.11.58:556][989]LogEditorTransaction: Undo Edit Group
+[2026.03.10-00.11.58:722][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.10-00.11.58:894][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.11.59:713][ 30]Cmd: TRANSACTION UNDO
+[2026.03.10-00.11.59:713][ 30]LogEditorTransaction: Undo Edit Group
+[2026.03.10-00.11.59:882][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.10-00.12.00:046][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.12.00:655][ 83]Cmd: TRANSACTION UNDO
+[2026.03.10-00.12.00:655][ 83]LogEditorTransaction: Undo Edit Parameter Name
+[2026.03.10-00.12.00:819][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.10-00.12.00:978][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.10-00.12.02:398][243]Cmd: TRANSACTION UNDO
+[2026.03.10-00.12.02:398][243]LogEditorTransaction: Undo Rename Node
+[2026.03.10-00.12.02:562][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.10-00.12.02:726][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.10-00.12.04:118][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.10-00.12.04:194][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.12.04:210][349]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-00.12.04:211][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.12.04:231][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.10-00.12.13:076][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.10-00.12.13:191][309]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.10-00.12.13:194][309]LogSlate: Took 0.003081 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.10-00.12.14:112][309]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.10-00.12.14:141][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.10-00.12.14:152][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.10-00.12.14:164][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.10-00.12.17:288][647]LogContentBrowser: Deferred new asset file creation: M_Target_Inst
+[2026.03.10-00.12.17:306][647]LogContentBrowser: Creating deferred item: M_Target_Inst
+[2026.03.10-00.12.17:316][648]LogContentBrowser: Renaming the item being created (Deferred Item: M_Target_Inst).
+[2026.03.10-00.12.24:986][563]LogContentBrowser: Attempting asset rename: M_Target_Inst -> M_Target_Blue
+[2026.03.10-00.12.24:986][563]LogContentBrowser: End creating deferred item M_Target_Inst
+[2026.03.10-00.12.25:856][639]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/0_FPS/Materials/M_Target_Blue.M_Target_Blue
+[2026.03.10-00.12.25:858][639]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.03.10-00.12.32:977][439]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.03.10-00.12.32:981][439]LogStreaming: Display: FlushAsyncLoading(728): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-00.12.43:250][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.12.43:293][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0_FPS/Materials/M_Target_Blue] ([1] browsable assets)...
+[2026.03.10-00.12.43:352][465]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/0_FPS/Materials/M_Target_Blue.M_Target_Blue]
+[2026.03.10-00.12.43:352][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Materials/M_Target_Blue]
+[2026.03.10-00.12.43:382][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.10-00.12.43:397][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.10-00.12.43:399][465]LogSavePackage: Moving output files for package: /Game/0_FPS/Materials/M_Target_Blue
+[2026.03.10-00.12.43:399][465]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/M_Target_Blue06D6CC98498C1F037AD0FA9808680FEF.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Materials/M_Target_Blue.uasset'
+[2026.03.10-00.12.43:408][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.758 ms (total: 651.891 ms)
+[2026.03.10-00.12.43:444][465]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.12.43:444][465]LogContentValidation: Enabled validators:
+[2026.03.10-00.12.43:444][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.12.43:444][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.12.43:444][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.12.43:444][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.12.43:444][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.12.43:444][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.12.43:444][465]AssetCheck: /Game/0_FPS/Materials/M_Target_Blue Validating asset
+[2026.03.10-00.12.43:455][465]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.13.02:629][727]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.13.02:629][727]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.13.02:629][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.13.02:629][727]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.13.02:629][727]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.13.02:644][729]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.13.02:644][729]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.10-00.13.02:644][729]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.13.02:644][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.13.02:644][729]MaterialEditorStats: Shader Count: 3
+[2026.03.10-00.13.02:644][729]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.13.02:652][730]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.13.02:652][730]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.13.02:652][730]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.13.02:652][730]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.13.02:652][730]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.13.02:652][730]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.13.02:652][730]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Total job queries 3,004, among them cache hits 816 (27.16%), DDC hits 1,531 (50.97%), Duplicates 192 (6.39%)
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Tracking 1,996 distinct input hashes that result in 1,284 distinct outputs (64.33%)
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: RAM used: 12.81 MiB of 3.10 GiB budget. Usage: 0.40%
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Shaders Compiled: 465
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Jobs assigned 465, completed 465 (100%)
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Average time worker was idle: 119.84 s
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Time job spent in pending queue: average 1.77 s, longest 6.88 s
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 5.76 s
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Job life time (pending + execution): average 3.43 s, max 7.71
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Shader code size: total 4.592 MiB, numShaders 494, average 9.52 KiB, min 1.727 KiB, max 51.403 KiB
+[2026.03.10-00.13.05:898][116]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.08 s
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.48%
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Jobs were issued in 194 batches (only local compilation was used), average 2.40 jobs/batch
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Average processing rate: 15.99 jobs/sec
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Total thread time: 158.084 s
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Total thread preprocess time: 27.59 s
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Percentage time preprocessing: 17.45%
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Effective parallelization: 5.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.452997
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.07 sec, max 1.29 sec, min 0.54 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.33% of total time (compiled   55 times, average 0.30 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.52% of total time (compiled   25 times, average 0.60 sec, max 0.91 sec, min 0.44 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.55% of total time (compiled   11 times, average 0.94 sec, max 1.16 sec, min 0.72 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                                  FVelocityPS - 6.27% of total time (compiled   27 times, average 0.37 sec, max 0.46 sec, min 0.23 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.06% of total time (compiled   41 times, average 0.20 sec, max 0.37 sec, min 0.08 sec)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Materials Translated:    217
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.13.05:899][116]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.13.08:091][378]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.13.08:091][378]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.13.08:091][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.13.08:091][378]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.13.08:091][378]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.13.08:092][378]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBEB400 with pending SubmitJob call.
+[2026.03.10-00.13.08:092][378]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE5A00 with pending SubmitJob call.
+[2026.03.10-00.13.08:094][378]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE1E00 with pending SubmitJob call.
+[2026.03.10-00.13.08:094][378]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBEBE00 with pending SubmitJob call.
+[2026.03.10-00.13.08:096][378]LogShaderCompilers: Display: Cancelled job 0x000001F7DDBE6400 with pending SubmitJob call.
+[2026.03.10-00.13.08:107][380]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.13.08:107][380]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.13.08:107][380]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.13.08:107][380]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.13.08:107][380]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.13.08:107][380]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.13.08:107][380]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.13.12:336][886]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-00.13.12:336][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.13.12:336][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.13.12:336][886]MaterialEditorStats: Shader Count: 0
+[2026.03.10-00.13.12:337][886]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.13.12:367][888]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-00.13.12:367][888]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-00.13.12:367][888]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-00.13.12:367][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-00.13.12:367][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-00.13.12:367][888]MaterialEditorStats: Shader Count: 5
+[2026.03.10-00.13.12:367][888]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-00.13.21:484][939]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.10-00.13.21:491][939]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.10-00.13.21:501][940]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.10-00.13.25:277][394]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.03.10-00.13.25:278][394]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.10-00.15.39:312][801]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.10-00.15.39:319][801]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.10-00.15.39:329][801]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.10-00.15.39:351][803]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.10-00.15.45:469][524]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Target
+[2026.03.10-00.15.45:483][524]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.10-00.15.47:157][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target
+[2026.03.10-00.15.47:157][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.03.10-00.15.47:195][689]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-00.15.47:700][689]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.03.10-00.15.47:702][689]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.03.10-00.16.42:753][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.10-00.16.42:754][166]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.041
+[2026.03.10-00.16.42:756][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.16.42:756][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.16.42:759][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/Blueprints/BP_Target_Auto3
+[2026.03.10-00.16.42:759][166]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target_Auto3507FBA004BF5801D6D0AA8B67773A285.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/Blueprints/BP_Target_Auto3.uasset'
+[2026.03.10-00.16.42:760][166]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.03.10-00.17.22:440][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.03.10-00.18.09:993][836]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.10-00.18.28:662][ 11]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Total job queries 3,048, among them cache hits 841 (27.59%), DDC hits 1,537 (50.43%), Duplicates 192 (6.30%)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Tracking 2,015 distinct input hashes that result in 1,295 distinct outputs (64.27%)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: RAM used: 12.89 MiB of 3.10 GiB budget. Usage: 0.41%
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Shaders Compiled: 475
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Jobs assigned 478, completed 475 (99.37%)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Average time worker was idle: 120.39 s
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Time job spent in pending queue: average 1.72 s, longest 6.88 s
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Job execution time: average 1.64 s, max 5.76 s
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Job life time (pending + execution): average 3.37 s, max 7.71
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Shader code size: total 4.69 MiB, numShaders 505, average 9.511 KiB, min 1.727 KiB, max 51.403 KiB
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.31 s
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.48%
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Jobs were issued in 207 batches (only local compilation was used), average 2.31 jobs/batch
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Average processing rate: 15.17 jobs/sec
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Total thread time: 161.75 s
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Total thread preprocess time: 27.901 s
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Percentage time preprocessing: 17.25%
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Effective parallelization: 5.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.430467
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.07 sec, max 1.29 sec, min 0.54 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.62% of total time (compiled   58 times, average 0.30 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.92% of total time (compiled   27 times, average 0.59 sec, max 0.91 sec, min 0.44 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.83% of total time (compiled   12 times, average 0.92 sec, max 1.16 sec, min 0.69 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                                  FVelocityPS - 6.39% of total time (compiled   28 times, average 0.37 sec, max 0.46 sec, min 0.23 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.27% of total time (compiled   44 times, average 0.19 sec, max 0.37 sec, min 0.08 sec)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Materials Translated:    225
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.19.05:908][354]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.19.26:191][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.10-00.19.35:846][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.19.35:874][843]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.19.35:880][843]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.19.35:880][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.19.35:883][843]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.19.35:883][843]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target2F82F3A8488C03C5782A53BBDF04738B.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.19.35:890][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.410 ms (total: 696.302 ms)
+[2026.03.10-00.19.35:941][843]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.19.35:941][843]LogContentValidation: Enabled validators:
+[2026.03.10-00.19.35:941][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.19.35:941][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.19.35:941][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.19.35:941][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.19.35:941][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.19.35:941][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.19.35:941][843]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.19.35:953][843]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.20.58:475][698]LogSlate: Took 0.000845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Total job queries 3,062, among them cache hits 843 (27.53%), DDC hits 1,542 (50.36%), Duplicates 192 (6.27%)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Tracking 2,027 distinct input hashes that result in 1,308 distinct outputs (64.53%)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: RAM used: 12.98 MiB of 3.10 GiB budget. Usage: 0.41%
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Shaders Compiled: 485
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Jobs assigned 485, completed 485 (100%)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Average time worker was idle: 116.28 s
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Time job spent in pending queue: average 1.70 s, longest 6.88 s
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 5.76 s
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Job life time (pending + execution): average 3.31 s, max 7.71
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Shader code size: total 4.774 MiB, numShaders 516, average 9.475 KiB, min 1.727 KiB, max 51.403 KiB
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.26 s
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.47%
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Jobs were issued in 214 batches (only local compilation was used), average 2.27 jobs/batch
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Average processing rate: 14.58 jobs/sec
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Total thread time: 165.138 s
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Total thread preprocess time: 28.032 s
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Percentage time preprocessing: 16.97%
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Effective parallelization: 4.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.413736
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.07 sec, max 1.29 sec, min 0.54 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.03% of total time (compiled   61 times, average 0.30 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.99% of total time (compiled   28 times, average 0.59 sec, max 0.91 sec, min 0.44 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.69% of total time (compiled   12 times, average 0.92 sec, max 1.16 sec, min 0.69 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                                  FVelocityPS - 6.60% of total time (compiled   29 times, average 0.38 sec, max 0.58 sec, min 0.23 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.39% of total time (compiled   46 times, average 0.19 sec, max 0.37 sec, min 0.08 sec)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Materials Translated:    225
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.22.05:912][705]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.22.20:389][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.10-00.24.02:906][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.10-00.24.03:950][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.24.04:004][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.24.04:010][819]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.24.04:010][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.24.04:013][819]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.24.04:014][819]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target7D7C61A24609C12CCEE5E2927381D7A0.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.24.04:019][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.877 ms (total: 764.179 ms)
+[2026.03.10-00.24.04:054][819]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.24.04:054][819]LogContentValidation: Enabled validators:
+[2026.03.10-00.24.04:054][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.24.04:054][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.24.04:054][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.24.04:054][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.24.04:054][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.24.04:054][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.24.04:054][819]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.27.08:406][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.10-00.27.09:498][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.27.09:536][922]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.27.09:566][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.27.09:566][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.27.09:570][922]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.27.09:570][922]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target5DD76E5647FFBDD9D5B206A3957341E0.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.27.09:576][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.211 ms (total: 842.391 ms)
+[2026.03.10-00.27.09:602][922]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.27.09:602][922]LogContentValidation: Enabled validators:
+[2026.03.10-00.27.09:602][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.27.09:602][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.27.09:602][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.27.09:602][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.27.09:602][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.27.09:602][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.27.09:603][922]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.29.24:774][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.03.10-00.29.24:779][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.024
+[2026.03.10-00.29.24:779][956]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.29.24:839][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.29.24:839][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.29.24:843][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/Blueprints/BP_Target_Auto4
+[2026.03.10-00.29.24:843][956]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_Target_Auto44FE7BAF647B8C2361A7666BD77919A81.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/Blueprints/BP_Target_Auto4.uasset'
+[2026.03.10-00.29.24:844][956]LogFileHelpers: Auto-saving content packages took 0.065
+[2026.03.10-00.31.21:081][597]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.10-00.31.43:796][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.10-00.31.45:046][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.31.45:101][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/Blueprints/BP_Target] ([2] browsable assets)...
+[2026.03.10-00.31.45:133][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target]
+[2026.03.10-00.31.45:133][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/Blueprints/BP_Target]
+[2026.03.10-00.31.45:138][451]LogSavePackage: Moving output files for package: /Game/0_FPS/Blueprints/BP_Target
+[2026.03.10-00.31.45:139][451]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BP_TargetE9EAFC2D472616600A306E87A9D27D34.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/0_FPS/Blueprints/BP_Target.uasset'
+[2026.03.10-00.31.45:144][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.949 ms (total: 940.340 ms)
+[2026.03.10-00.31.45:185][451]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.31.45:185][451]LogContentValidation: Enabled validators:
+[2026.03.10-00.31.45:185][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.31.45:185][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.31.45:185][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.31.45:185][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.31.45:185][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.31.45:185][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.31.45:185][451]AssetCheck: /Game/0_FPS/Blueprints/BP_Target Validating asset
+[2026.03.10-00.32.07:389][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0_FPS/Blueprints/BP_Target.BP_Target_C
+[2026.03.10-00.32.07:389][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0_FPS/Blueprints/BP_Target.BP_Target_C
+[2026.03.10-00.32.07:391][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_Target_C_0
+[2026.03.10-00.32.07:391][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_Target_C_0
+[2026.03.10-00.32.07:394][ 58]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.10-00.32.09:562][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.03.10-00.32.09:581][289]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2026.03.10-00.32.09:584][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0_FPS/Blueprints/BP_Target.BP_Target_C
+[2026.03.10-00.32.09:585][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0_FPS/Blueprints/BP_Target.BP_Target_C
+[2026.03.10-00.32.09:589][289]LogActorFactory: Actor Factory spawned Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_Target_C_UAID_345A60A41C2F84C602_1555476815
+[2026.03.10-00.32.09:589][289]LogActorFactory: Actor Factory spawned Blueprint /Game/0_FPS/Blueprints/BP_Target.BP_Target as actor: BP_Target_C /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_Target_C_UAID_345A60A41C2F84C602_1555476815
+[2026.03.10-00.32.14:840][894]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-00.32.14:845][894]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.10-00.32.14:845][894]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2026.03.10-00.32.14:846][894]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2026.03.10-00.32.14:846][894]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 775 us (total: 3.920 ms)
+[2026.03.10-00.32.14:851][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-00.32.14:885][894]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.32.14:895][894]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.10-00.32.14:896][894]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.693 ms (total: 4.865 ms)
+[2026.03.10-00.32.14:896][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011957s)
+[2026.03.10-00.32.14:896][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.012000s)
+[2026.03.10-00.32.14:917][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.03.10-00.32.14:921][894]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2026.03.10-00.32.14:923][894]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.10-00.32.14:923][894]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.10-00.32.14:923][894]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.10-00.32.14:923][894]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.10-00.32.14:925][894]LogWorldPartition: Display: WorldPartition initialize took 2.386 ms (total: 597.056 ms)
+[2026.03.10-00.32.14:925][894]LogPlayLevel: PIE: World Init took: (0.003945s)
+[2026.03.10-00.32.14:926][894]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.03.10-00.32.14:926][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-00.32.14:926][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-00.32.14:926][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-00.32.14:926][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-00.32.14:926][894]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-00.32.14:926][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-00.32.14:926][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-00.32.14:926][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-00.32.14:926][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-00.32.14:926][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-00.32.14:926][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-00.32.14:927][894]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-00.32.14:967][894]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.03.10-00.32.14:967][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-00.32.14:967][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-00.32.14:967][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-00.32.14:968][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.03.10-00.32.14:968][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.03.10-00.32.14:970][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.03.10-00.32.14:970][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.03.10-00.32.14:970][894]LogInit: FAudioDevice initialized with ID 4.
+[2026.03.10-00.32.14:970][894]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ArenaShooter'.
+[2026.03.10-00.32.14:970][894]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.10-00.32.14:973][894]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.03.10-00.32.14:975][894]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2026.03.10-11.32.14
+[2026.03.10-00.32.14:976][894]LogWorld: Bringing up level for play took: 0.003283
+[2026.03.10-00.32.14:979][894]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.03.10-00.32.14:984][894]PIE: Server logged in
+[2026.03.10-00.32.14:985][894]PIE: Play in editor total start time 0.14 seconds.
+[2026.03.10-00.32.15:020][895]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.10-00.32.48:617][922]LogDerivedDataCache: C:/Users/rcarter1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.10-00.32.56:545][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.32.56:545][870]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.32.56:545][870]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.10-00.32.56:545][870]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-00.32.56:546][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.32.56:546][870]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2026.03.10-00.32.56:549][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-00.32.56:554][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.32.56:572][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.10-00.32.56:572][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.10-00.32.56:572][870]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.03.10-00.32.56:575][870]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.03.10-00.32.56:579][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.32.56:582][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.10-00.32.56:659][872]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.03.10-00.33.16:452][998]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-00.33.16:458][998]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.10-00.33.16:458][998]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2026.03.10-00.33.16:459][998]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2026.03.10-00.33.16:459][998]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 815 us (total: 4.736 ms)
+[2026.03.10-00.33.16:460][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-00.33.16:494][998]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.33.16:502][998]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.10-00.33.16:504][998]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.659 ms (total: 6.524 ms)
+[2026.03.10-00.33.16:504][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009333s)
+[2026.03.10-00.33.16:504][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.009361s)
+[2026.03.10-00.33.16:524][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.10-00.33.16:530][998]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2026.03.10-00.33.16:531][998]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.10-00.33.16:531][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.10-00.33.16:531][998]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.10-00.33.16:531][998]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.10-00.33.16:533][998]LogWorldPartition: Display: WorldPartition initialize took 2.325 ms (total: 599.381 ms)
+[2026.03.10-00.33.16:533][998]LogPlayLevel: PIE: World Init took: (0.003704s)
+[2026.03.10-00.33.16:533][998]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.10-00.33.16:533][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-00.33.16:533][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-00.33.16:533][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-00.33.16:533][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-00.33.16:533][998]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-00.33.16:533][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-00.33.16:533][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-00.33.16:533][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-00.33.16:533][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-00.33.16:533][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-00.33.16:533][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-00.33.16:535][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-00.33.16:572][998]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.03.10-00.33.16:572][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-00.33.16:572][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-00.33.16:572][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-00.33.16:572][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.03.10-00.33.16:572][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.03.10-00.33.16:574][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.03.10-00.33.16:574][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.03.10-00.33.16:574][998]LogInit: FAudioDevice initialized with ID 5.
+[2026.03.10-00.33.16:574][998]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ArenaShooter'.
+[2026.03.10-00.33.16:574][998]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.10-00.33.16:577][998]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2026.03.10-00.33.16:580][998]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2026.03.10-11.33.16
+[2026.03.10-00.33.16:581][998]LogWorld: Bringing up level for play took: 0.003023
+[2026.03.10-00.33.16:582][998]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.03.10-00.33.16:587][998]PIE: Server logged in
+[2026.03.10-00.33.16:589][998]PIE: Play in editor total start time 0.131 seconds.
+[2026.03.10-00.33.16:622][999]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.10-00.33.38:554][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.33.38:554][621]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2026.03.10-00.33.38:554][621]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.10-00.33.38:554][621]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-00.33.38:555][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.33.38:555][621]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2026.03.10-00.33.38:559][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-00.33.38:563][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-00.33.38:581][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.10-00.33.38:581][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.10-00.33.38:581][621]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.03.10-00.33.38:584][621]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.03.10-00.33.38:588][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-00.33.38:590][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.10-00.33.38:663][623]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.03.10-00.33.39:989][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.10-00.33.39:994][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.33.40:036][780]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/WV/LZYSHE1YP2FMK3JC2DXNNM
+[2026.03.10-00.33.40:036][780]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/LZYSHE1YP2FMK3JC2DXNNM813A6C244B6A6B4A45641BA8A3FF165A.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/WV/LZYSHE1YP2FMK3JC2DXNNM.uasset'
+[2026.03.10-00.33.40:044][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.291 ms (total: 990.632 ms)
+[2026.03.10-00.33.40:100][780]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.10-00.33.40:100][780]LogContentValidation: Enabled validators:
+[2026.03.10-00.33.40:100][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.33.40:100][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.33.40:100][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.33.40:100][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.33.40:100][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.33.40:100][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.33.40:100][780]AssetCheck: /Game/Variant_Shooter/Lvl_ArenaShooter Validating asset
+[2026.03.10-00.33.40:125][780]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: ================================================
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Total job queries 3,072, among them cache hits 847 (27.57%), DDC hits 1,543 (50.23%), Duplicates 192 (6.25%)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Tracking 2,033 distinct input hashes that result in 1,313 distinct outputs (64.58%)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: RAM used: 13.01 MiB of 3.10 GiB budget. Usage: 0.41%
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Shaders Compiled: 490
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Jobs assigned 490, completed 490 (100%)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Average time worker was idle: 136.00 s
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Time job spent in pending queue: average 1.68 s, longest 6.88 s
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 5.76 s
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Job life time (pending + execution): average 3.28 s, max 7.71
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Shader code size: total 4.808 MiB, numShaders 521, average 9.45 KiB, min 1.727 KiB, max 51.403 KiB
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.80 s
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.46%
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Jobs were issued in 219 batches (only local compilation was used), average 2.24 jobs/batch
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Average processing rate: 14.50 jobs/sec
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Total thread time: 166.234 s
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Total thread preprocess time: 28.109 s
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Percentage time preprocessing: 16.91%
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Effective parallelization: 4.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.409825
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.47 sec, max 1.81 sec, min 1.17 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.16 sec, max 1.31 sec, min 0.88 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.10 sec, max 1.13 sec, min 1.06 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.07 sec, max 1.29 sec, min 0.54 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.28% of total time (compiled   63 times, average 0.30 sec, max 0.58 sec, min 0.17 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.93% of total time (compiled   28 times, average 0.59 sec, max 0.91 sec, min 0.44 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.64% of total time (compiled   12 times, average 0.92 sec, max 1.16 sec, min 0.69 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                                  FVelocityPS - 6.56% of total time (compiled   29 times, average 0.38 sec, max 0.58 sec, min 0.23 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.58% of total time (compiled   48 times, average 0.19 sec, max 0.37 sec, min 0.08 sec)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: === Material stats ===
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Materials Translated:    225
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.10-00.34.06:254][534]LogShaderCompilers: Display: ================================================
