@@ -1713,3 +1713,178 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.09-23.48.03:374][236]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/ZGGJ2CQGH4RR04DZC4H5EW_Auto17F1702A3479073E6B0456AB827DFE7A7.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/Autosaves/Game/__ExternalObjects__/Variant_Shooter/Lvl_ArenaShooter/8/F4/ZGGJ2CQGH4RR04DZC4H5EW_Auto1.uasset'
 [2026.03.09-23.48.03:375][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Shooter/Lvl_ArenaShooter' took 0.053
 [2026.03.09-23.48.03:375][236]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2026.03.10-00.02.27:344][910]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.10-00.02.27:360][910]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.10-00.02.27:368][911]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.10-00.02.33:425][637]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2026.03.10-00.02.33:426][637]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.10-00.02.57:105][ 17]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-00.02.57:160][ 17]LogInterchangeEngine: [Pending] Importing
+[2026.03.10-00.02.57:160][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Blue.png]
+[2026.03.10-00.02.57:161][ 17]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.03.10-00.02.57:161][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Green.png]
+[2026.03.10-00.02.57:161][ 17]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.03.10-00.02.57:161][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Orange.png]
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Pink.png]
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Purple.png]
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Red.png]
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.03.10-00.02.57:162][ 17]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Yellow.png]
+[2026.03.10-00.02.57:814][ 19]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-00.02.57:844][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-00.02.57:844][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-00.02.57:844][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-00.02.57:844][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-00.02.57:844][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-00.02.57:844][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-00.02.57:845][ 20]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-00.02.58:131][ 20]LogTexture: Display: Building textures: /Game/Textures/T_Target_Blue.T_Target_Blue (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 297.682933 MB), EncodeSpeed: Fast
+[2026.03.10-00.02.58:133][ 20]LogTexture: Display: Building textures: /Game/Textures/T_Target_Green.T_Target_Green (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 297.682933 MB), EncodeSpeed: Fast
+[2026.03.10-00.02.58:134][ 20]LogTexture: Display: Building textures: /Game/Textures/T_Target_Orange.T_Target_Orange (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 297.682933 MB), EncodeSpeed: Fast
+[2026.03.10-00.02.58:136][ 20]LogTexture: Display: Building textures: /Game/Textures/T_Target_Pink.T_Target_Pink (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 297.682933 MB), EncodeSpeed: Fast
+[2026.03.10-00.02.58:137][ 20]LogTexture: Display: Building textures: /Game/Textures/T_Target_Purple.T_Target_Purple (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 297.682933 MB), EncodeSpeed: Fast
+[2026.03.10-00.02.58:139][ 21]LogTexture: Display: Building textures: /Game/Textures/T_Target_Red.T_Target_Red (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 297.682933 MB), EncodeSpeed: Fast
+[2026.03.10-00.02.58:140][ 21]LogTexture: Display: Building textures: /Game/Textures/T_Target_Yellow.T_Target_Yellow (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 297.682933 MB), EncodeSpeed: Fast
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Blue.png]
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Green.png]
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Orange.png]
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Pink.png]
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Purple.png]
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Red.png]
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.03.10-00.02.58:451][ 21]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rcarter1/Downloads/Assets/Assets/T_Target_Yellow.png]
+[2026.03.10-00.02.58:463][ 21]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.10-00.02.58:463][ 21]LogInterchangeEngine: [Success] Import Done
+[2026.03.10-00.03.07:690][793]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.10-00.03.07:697][793]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.10-00.03.07:705][794]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.10-00.03.10:772][161]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2026.03.10-00.03.10:772][161]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.10-00.03.18:899][697]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\rcarter1\Downloads\Assets\Assets\MP3_Explosion_Big.mp3)
+[2026.03.10-00.03.18:908][697]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave MP3_Explosion_Big...
+[2026.03.10-00.03.18:914][697]LogAudioDerivedData: Display: MP3_Explosion_Big compressed to 22.11% (from 292KB to 64KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.10-00.03.18:914][697]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/MP3_Explosion_Big.MP3_Explosion_Big: Duration=3.12 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=66219 bytes, ChunkN=0)
+[2026.03.10-00.03.18:915][697]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave MP3_Explosion_Big...
+[2026.03.10-00.03.18:915][697]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\rcarter1\Downloads\Assets\Assets\MP3_Explosions_Small.mp3)
+[2026.03.10-00.03.18:916][697]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave MP3_Explosions_Small...
+[2026.03.10-00.03.18:917][697]LogAudioDerivedData: Display: MP3_Explosions_Small compressed to 29.82% (from 83KB to 24KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.10-00.03.18:917][697]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/MP3_Explosions_Small.MP3_Explosions_Small: Duration=0.89 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=25417 bytes, ChunkN=0)
+[2026.03.10-00.03.18:918][697]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave MP3_Explosions_Small...
+[2026.03.10-00.03.18:919][697]LogAudioDerivedData: Display: MP3_Explosion_Big compressed to 22.11% (from 292KB to 64KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.10-00.03.18:919][697]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/MP3_Explosion_Big.MP3_Explosion_Big: Duration=3.12 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=66219 bytes, ChunkN=0)
+[2026.03.10-00.03.18:919][697]LogAudioDerivedData: Display: MP3_Explosions_Small compressed to 29.82% (from 83KB to 24KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.10-00.03.18:919][697]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/MP3_Explosions_Small.MP3_Explosions_Small: Duration=0.89 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=25417 bytes, ChunkN=0)
+[2026.03.10-00.03.22:221][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.10-00.03.22:229][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-00.03.22:297][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.03.22:308][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.03.22:318][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.10-00.03.22:324][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/1/2M/4RN5Q2KBXUF5G5V1EB8JLH
+[2026.03.10-00.03.22:325][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/4RN5Q2KBXUF5G5V1EB8JLH8CBFC5CC4E83ACE5469D67A00FCC041C.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/1/2M/4RN5Q2KBXUF5G5V1EB8JLH.uasset'
+[2026.03.10-00.03.22:327][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/1/HU/QV23357J2OCOWALK273DTD
+[2026.03.10-00.03.22:327][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/QV23357J2OCOWALK273DTD6D8FC5FD48FED14FDC855582905A57D6.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/1/HU/QV23357J2OCOWALK273DTD.uasset'
+[2026.03.10-00.03.22:330][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/1/W9/627CE3QQTPYS0K2ERRO9S9
+[2026.03.10-00.03.22:330][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/627CE3QQTPYS0K2ERRO9S977C0CE4842BF0F354370CFB066D161B5.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/1/W9/627CE3QQTPYS0K2ERRO9S9.uasset'
+[2026.03.10-00.03.22:332][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/4/JR/FAFJPC70240JN3QAKZ4MD9
+[2026.03.10-00.03.22:333][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/FAFJPC70240JN3QAKZ4MD9CBBFAA0A4AE2C9B218F2F88EBBFDA5AE.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/4/JR/FAFJPC70240JN3QAKZ4MD9.uasset'
+[2026.03.10-00.03.22:334][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/5/0G/VDRB5M2PY9KE6OH651LEU3
+[2026.03.10-00.03.22:334][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/VDRB5M2PY9KE6OH651LEU371811E0849CE95EF5F452E9124258B41.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/5/0G/VDRB5M2PY9KE6OH651LEU3.uasset'
+[2026.03.10-00.03.22:337][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/5/AN/EUS8GFQRFV3HY0J9IX4JCJ
+[2026.03.10-00.03.22:338][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/EUS8GFQRFV3HY0J9IX4JCJE63EC68A4127D690BF8553BF148AFC60.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/5/AN/EUS8GFQRFV3HY0J9IX4JCJ.uasset'
+[2026.03.10-00.03.22:340][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/9/NJ/PHZO5SC7UIW31JMH3GGC87
+[2026.03.10-00.03.22:341][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/PHZO5SC7UIW31JMH3GGC8734BB70044BE9D94DA5821B9AA57A4669.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/9/NJ/PHZO5SC7UIW31JMH3GGC87.uasset'
+[2026.03.10-00.03.22:354][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/0X/BXNZGEX1ZW9H6A34A4CIKA
+[2026.03.10-00.03.22:354][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/BXNZGEX1ZW9H6A34A4CIKAFDB01210407E0B4866789A95204F1919.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/0X/BXNZGEX1ZW9H6A34A4CIKA.uasset'
+[2026.03.10-00.03.22:356][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/A5/QHKMK2LUL56AJMS4WZ4F9M
+[2026.03.10-00.03.22:356][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/QHKMK2LUL56AJMS4WZ4F9M8DAC721B4D09C46089F607AA7A6F94FD.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/A5/QHKMK2LUL56AJMS4WZ4F9M.uasset'
+[2026.03.10-00.03.22:358][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/NI/PX5VXR4F0OGBX0DVO52LV3
+[2026.03.10-00.03.22:359][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/PX5VXR4F0OGBX0DVO52LV3F362EA0B43D2BE4CA44ACBB7DD4886CF.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/A/NI/PX5VXR4F0OGBX0DVO52LV3.uasset'
+[2026.03.10-00.03.22:362][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/B/9V/RB4Z65P6ZXTUNWTFN9LBS2
+[2026.03.10-00.03.22:362][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/RB4Z65P6ZXTUNWTFN9LBS2E90C936E4BB03E898E00C78C48597D06.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/B/9V/RB4Z65P6ZXTUNWTFN9LBS2.uasset'
+[2026.03.10-00.03.22:364][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/EU/0YP406S9BTT0WRNE3BFTRZ
+[2026.03.10-00.03.22:365][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/0YP406S9BTT0WRNE3BFTRZ4E3501D946E1ECD352F274A46028DBBE.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/EU/0YP406S9BTT0WRNE3BFTRZ.uasset'
+[2026.03.10-00.03.22:367][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/ZR/ZBELVUKHYI7T49Y4CVQG6R
+[2026.03.10-00.03.22:367][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/ZBELVUKHYI7T49Y4CVQG6R9DA9131244B3DCCF245664AD1169BE96.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/ZR/ZBELVUKHYI7T49Y4CVQG6R.uasset'
+[2026.03.10-00.03.22:369][918]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Variant_Shooter/Lvl_ArenaShooter/8/F4/ZGGJ2CQGH4RR04DZC4H5EW
+[2026.03.10-00.03.22:369][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/ZGGJ2CQGH4RR04DZC4H5EW32731ACE476D3ECB75B249A11DD6F6F6.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/__ExternalObjects__/Variant_Shooter/Lvl_ArenaShooter/8/F4/ZGGJ2CQGH4RR04DZC4H5EW.uasset'
+[2026.03.10-00.03.22:370][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Target_Blue] ([1] browsable assets)...
+[2026.03.10-00.03.22:371][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Target_Blue.T_Target_Blue]
+[2026.03.10-00.03.22:371][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Target_Blue]
+[2026.03.10-00.03.22:371][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Target_Blue" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Blue.uasset" SILENT=true
+[2026.03.10-00.03.22:382][918]LogSavePackage: Moving output files for package: /Game/Textures/T_Target_Blue
+[2026.03.10-00.03.22:382][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Blue44B0548A44CEC752538E7284EB7B3E24.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Blue.uasset'
+[2026.03.10-00.03.22:383][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Target_Green] ([1] browsable assets)...
+[2026.03.10-00.03.22:384][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Target_Green.T_Target_Green]
+[2026.03.10-00.03.22:384][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Target_Green]
+[2026.03.10-00.03.22:384][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Target_Green" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Green.uasset" SILENT=true
+[2026.03.10-00.03.22:393][918]LogSavePackage: Moving output files for package: /Game/Textures/T_Target_Green
+[2026.03.10-00.03.22:393][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_GreenE9E169054B6F1A9D656B59BD1962EE2A.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Green.uasset'
+[2026.03.10-00.03.22:393][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Target_Orange] ([1] browsable assets)...
+[2026.03.10-00.03.22:395][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Target_Orange.T_Target_Orange]
+[2026.03.10-00.03.22:395][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Target_Orange]
+[2026.03.10-00.03.22:395][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Target_Orange" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Orange.uasset" SILENT=true
+[2026.03.10-00.03.22:403][918]LogSavePackage: Moving output files for package: /Game/Textures/T_Target_Orange
+[2026.03.10-00.03.22:403][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_OrangeFE8FB82F4D1835544EDD34BC4DF4BC96.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Orange.uasset'
+[2026.03.10-00.03.22:404][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Target_Pink] ([1] browsable assets)...
+[2026.03.10-00.03.22:406][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Target_Pink.T_Target_Pink]
+[2026.03.10-00.03.22:406][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Target_Pink]
+[2026.03.10-00.03.22:406][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Target_Pink" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Pink.uasset" SILENT=true
+[2026.03.10-00.03.22:414][918]LogSavePackage: Moving output files for package: /Game/Textures/T_Target_Pink
+[2026.03.10-00.03.22:414][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Pink5C70F9E64796CD2FA4A560A81AA579FB.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Pink.uasset'
+[2026.03.10-00.03.22:414][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Target_Purple] ([1] browsable assets)...
+[2026.03.10-00.03.22:416][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Target_Purple.T_Target_Purple]
+[2026.03.10-00.03.22:416][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Target_Purple]
+[2026.03.10-00.03.22:416][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Target_Purple" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Purple.uasset" SILENT=true
+[2026.03.10-00.03.22:424][918]LogSavePackage: Moving output files for package: /Game/Textures/T_Target_Purple
+[2026.03.10-00.03.22:425][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Purple85F3DDF14F939B924CC719B75EB8AB06.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Purple.uasset'
+[2026.03.10-00.03.22:425][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Target_Red] ([1] browsable assets)...
+[2026.03.10-00.03.22:427][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Target_Red.T_Target_Red]
+[2026.03.10-00.03.22:427][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Target_Red]
+[2026.03.10-00.03.22:427][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Target_Red" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Red.uasset" SILENT=true
+[2026.03.10-00.03.22:435][918]LogSavePackage: Moving output files for package: /Game/Textures/T_Target_Red
+[2026.03.10-00.03.22:435][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_Red184E0A64467B1F293F684EA0D89FB1FB.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Red.uasset'
+[2026.03.10-00.03.22:436][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Target_Yellow] ([1] browsable assets)...
+[2026.03.10-00.03.22:437][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Target_Yellow.T_Target_Yellow]
+[2026.03.10-00.03.22:437][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Target_Yellow]
+[2026.03.10-00.03.22:437][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Target_Yellow" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Yellow.uasset" SILENT=true
+[2026.03.10-00.03.22:446][918]LogSavePackage: Moving output files for package: /Game/Textures/T_Target_Yellow
+[2026.03.10-00.03.22:446][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/T_Target_YellowE6CFE44342D0769600F83F9FEE42FCF6.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Textures/T_Target_Yellow.uasset'
+[2026.03.10-00.03.22:447][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/MP3_Explosion_Big] ([1] browsable assets)...
+[2026.03.10-00.03.22:448][918]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/MP3_Explosion_Big.MP3_Explosion_Big]
+[2026.03.10-00.03.22:449][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MP3_Explosion_Big]
+[2026.03.10-00.03.22:449][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MP3_Explosion_Big" FILE="../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Audio/MP3_Explosion_Big.uasset" SILENT=true
+[2026.03.10-00.03.22:452][918]LogSavePackage: Moving output files for package: /Game/Audio/MP3_Explosion_Big
+[2026.03.10-00.03.22:452][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/MP3_Explosion_Big9543DE73404CCA3B10B292BDCCB61B68.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Audio/MP3_Explosion_Big.uasset'
+[2026.03.10-00.03.22:453][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/MP3_Explosions_Small] ([1] browsable assets)...
+[2026.03.10-00.03.22:454][918]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/MP3_Explosions_Small.MP3_Explosions_Small]
+[2026.03.10-00.03.22:454][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MP3_Explosions_Small]
+[2026.03.10-00.03.22:455][918]LogSavePackage: Moving output files for package: /Game/Audio/MP3_Explosions_Small
+[2026.03.10-00.03.22:455][918]LogSavePackage: Moving '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/MP3_Explosions_SmallF6C6391242E7AD5B184E01A431E56554.tmp' to '../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Content/Audio/MP3_Explosions_Small.uasset'
+[2026.03.10-00.03.22:463][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 233.678 ms
+[2026.03.10-00.03.22:514][918]LogContentValidation: Display: Starting to validate 23 assets
+[2026.03.10-00.03.22:514][918]LogContentValidation: Enabled validators:
+[2026.03.10-00.03.22:514][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-00.03.22:514][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-00.03.22:514][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-00.03.22:514][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-00.03.22:514][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-00.03.22:514][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-00.03.22:514][918]AssetCheck: /Game/Variant_Shooter/Lvl_ArenaShooter Validating asset
+[2026.03.10-00.03.22:514][918]AssetCheck: /Game/Textures/T_Target_Blue Validating asset
+[2026.03.10-00.03.22:514][918]AssetCheck: /Game/Textures/T_Target_Green Validating asset
+[2026.03.10-00.03.22:515][918]AssetCheck: /Game/Textures/T_Target_Orange Validating asset
+[2026.03.10-00.03.22:515][918]AssetCheck: /Game/Textures/T_Target_Pink Validating asset
+[2026.03.10-00.03.22:515][918]AssetCheck: /Game/Textures/T_Target_Purple Validating asset
+[2026.03.10-00.03.22:515][918]AssetCheck: /Game/Textures/T_Target_Red Validating asset
+[2026.03.10-00.03.22:515][918]AssetCheck: /Game/Textures/T_Target_Yellow Validating asset
+[2026.03.10-00.03.22:515][918]AssetCheck: /Game/Audio/MP3_Explosion_Big Validating asset
+[2026.03.10-00.03.22:515][918]AssetCheck: /Game/Audio/MP3_Explosions_Small Validating asset
+[2026.03.10-00.03.22:529][918]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rcarter1/Documents/FPS Shooter RCarter/FPS_Shooter_RCarter/Saved/SourceControl/UncontrolledChangelists.json
