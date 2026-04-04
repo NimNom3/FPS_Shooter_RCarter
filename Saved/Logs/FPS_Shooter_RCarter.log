@@ -7131,3 +7131,89 @@ Sampler Limit: 32
 [2026.04.04-15.24.50:866][138]AssetCheck: /Game/0_FPS/Maps/Lvl_Horror_Stealth Validating asset
 [2026.04.04-15.24.53:784][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2026.04.04-15.24.58:401][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.04.04-15.26.47:234][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5862.512207
+[2026.04.04-15.26.47:531][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-15.26.47:531][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5862.798828, Update Interval: 317.111725
+[2026.04.04-15.29.04:926][377]Cmd: DELETE
+[2026.04.04-15.29.04:926][377]Cmd: ACTOR DELETE
+[2026.04.04-15.29.04:927][377]LogEditorActor: Deleted Actor: BP_Camera_C
+[2026.04.04-15.29.04:959][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.04.04-15.29.04:963][377]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.04.04-15.31.12:552][ 43]Cmd: DELETE
+[2026.04.04-15.31.12:552][ 43]Cmd: ACTOR DELETE
+[2026.04.04-15.31.12:555][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.04-15.31.12:575][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.04.04-15.31.12:578][ 43]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.04.04-15.31.27:234][636]Cmd: DELETE
+[2026.04.04-15.31.27:234][636]Cmd: ACTOR DELETE
+[2026.04.04-15.31.27:237][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.04-15.31.27:257][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.04-15.31.27:260][636]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.04.04-15.32.41:464][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6216.725098
+[2026.04.04-15.32.41:782][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-15.32.41:782][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6217.032227, Update Interval: 332.718292
+[2026.04.04-15.34.50:598][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.04-15.34.50:619][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/Maps/Lvl_Horror_Stealth_Auto7
+[2026.04.04-15.34.50:619][175]LogSavePackage: Moving '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/Lvl_Horror_Stealth_Auto7C8BC1E3146533CC9CAAC10A05B4E48B0.tmp' to '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/Maps/Lvl_Horror_Stealth_Auto7.umap'
+[2026.04.04-15.34.50:621][175]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0_FPS/Maps/Lvl_Horror_Stealth' took 0.062
+[2026.04.04-15.34.50:621][175]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2026.04.04-15.37.29:574][369]Cmd: TRANSACTION UNDO
+[2026.04.04-15.37.29:574][369]LogEditorTransaction: Undo Move Elements
+[2026.04.04-15.37.29:619][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.29:620][369]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.37.48:866][491]Cmd: SELECT NONE
+[2026.04.04-15.38.17:252][649]Cmd: SELECT NONE
+[2026.04.04-15.38.26:822][668]Cmd: TRANSACTION UNDO
+[2026.04.04-15.38.26:822][668]LogEditorTransaction: Undo Move Elements
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.26:862][668]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [SM_Door]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.04.04-15.38.52:578][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6587.929688
+[2026.04.04-15.38.52:874][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-15.38.52:874][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6588.218262, Update Interval: 302.250427
+[2026.04.04-15.39.46:359][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.04.04-15.39.47:933][362]LogSlate: Window 'Save Content' being destroyed
+[2026.04.04-15.39.47:944][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.04-15.39.48:086][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.04-15.39.48:106][362]LogSavePackage: Moving output files for package: /Game/0_FPS/Maps/Lvl_Horror_Stealth
+[2026.04.04-15.39.48:107][362]LogSavePackage: Moving '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/Lvl_Horror_Stealth0D2CB5B9433847681D3D2E845348CBCE.tmp' to '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Content/0_FPS/Maps/Lvl_Horror_Stealth.umap'
+[2026.04.04-15.39.48:114][362]LogFileHelpers: Saving map 'Lvl_Horror_Stealth' took 0.066
+[2026.04.04-15.39.48:125][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.634 ms (total: 1.03 sec)
+[2026.04.04-15.39.48:218][362]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.04-15.39.48:218][362]LogContentValidation: Enabled validators:
+[2026.04.04-15.39.48:218][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.04-15.39.48:218][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.04-15.39.48:218][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.04-15.39.48:218][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.04-15.39.48:218][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.04-15.39.48:218][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.04-15.39.48:218][362]AssetCheck: /Game/0_FPS/Maps/Lvl_Horror_Stealth Validating asset
