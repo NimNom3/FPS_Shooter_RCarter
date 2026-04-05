@@ -14162,3 +14162,62 @@ Sampler Limit: 32
 [2026.04.04-20.17.51:964][ 47]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23259.697266
 [2026.04.04-20.17.52:966][ 50]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.04-20.17.52:966][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23260.365234, Update Interval: 347.605225
+[2026.04.04-20.23.08:212][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.04.04-20.23.08:215][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0_FPS/Maps/Lvl_ArenaShooter' took 0.070
+[2026.04.04-20.23.08:217][ 92]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/UI/UI_Horror] ([2] browsable assets)...
+[2026.04.04-20.23.08:225][ 92]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0_FPS/UI/UI_Horror.UI_Horror]
+[2026.04.04-20.23.08:225][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/UI/UI_Horror]
+[2026.04.04-20.23.08:247][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/UI/UI_Horror_Auto7
+[2026.04.04-20.23.08:247][ 92]LogSavePackage: Moving '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/UI_Horror_Auto72F74AB17468F3C39AD56A3BE36FAF05C.tmp' to '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/UI/UI_Horror_Auto7.uasset'
+[2026.04.04-20.23.08:249][ 92]LogFileHelpers: Auto-saving content packages took 0.033
+[2026.04.04-20.24.20:482][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23647.693359
+[2026.04.04-20.24.20:767][282]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-20.24.20:767][282]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23647.964844, Update Interval: 327.547241
+[2026.04.04-20.26.20:379][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.04.04-20.26.54:714][939]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.04-20.30.37:648][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24020.976562
+[2026.04.04-20.30.37:810][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.04.04-20.30.38:017][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-20.30.38:017][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24021.339844, Update Interval: 301.680969
+[2026.04.04-20.30.39:796][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.04-20.30.39:905][905]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/UI/UI_Horror] ([2] browsable assets)...
+[2026.04.04-20.30.39:908][905]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0_FPS/UI/UI_Horror.UI_Horror]
+[2026.04.04-20.30.39:908][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/UI/UI_Horror]
+[2026.04.04-20.30.39:908][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0_FPS/UI/UI_Horror" FILE="../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Content/0_FPS/UI/UI_Horror.uasset" SILENT=true
+[2026.04.04-20.30.39:936][905]LogSavePackage: Moving output files for package: /Game/0_FPS/UI/UI_Horror
+[2026.04.04-20.30.39:937][905]LogSavePackage: Moving '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/UI_HorrorDF8BE0B14D0B3DDAA5EAAE8F73C858F0.tmp' to '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Content/0_FPS/UI/UI_Horror.uasset'
+[2026.04.04-20.30.39:948][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.012 ms (total: 3.35 sec)
+[2026.04.04-20.30.40:057][905]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.04-20.30.40:057][905]LogContentValidation: Enabled validators:
+[2026.04.04-20.30.40:057][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.04-20.30.40:057][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.04-20.30.40:057][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.04-20.30.40:057][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.04-20.30.40:057][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.04-20.30.40:057][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.04-20.30.40:059][905]AssetCheck: /Game/0_FPS/UI/UI_Horror Validating asset
+[2026.04.04-20.33.21:506][ 66]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.04-20.34.10:727][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.04.04-20.34.10:728][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0_FPS/Maps/Lvl_ArenaShooter' took 0.032
+[2026.04.04-20.34.10:728][558]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0_FPS/UI/UI_Horror] ([2] browsable assets)...
+[2026.04.04-20.34.10:733][558]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0_FPS/UI/UI_Horror.UI_Horror]
+[2026.04.04-20.34.10:733][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/0_FPS/UI/UI_Horror]
+[2026.04.04-20.34.10:755][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0_FPS/UI/UI_Horror_Auto8
+[2026.04.04-20.34.10:756][558]LogSavePackage: Moving '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/UI_Horror_Auto8610ABB6C46D1614495CE6195F9FBA207.tmp' to '../../../../../../Users/User/OneDrive - JMC academies/Documents/GitHub/FPS_Shooter_RCarter/Saved/Autosaves/Game/0_FPS/UI/UI_Horror_Auto8.uasset'
+[2026.04.04-20.34.10:756][558]LogFileHelpers: Auto-saving content packages took 0.028
+[2026.04.04-20.36.39:092][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24385.964844
+[2026.04.04-20.36.40:091][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-20.36.40:093][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24386.632812, Update Interval: 325.401154
+[2026.04.04-20.43.00:978][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24768.496094
+[2026.04.04-20.43.01:979][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-20.43.01:979][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24769.164062, Update Interval: 342.987152
+[2026.04.04-20.49.39:060][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25166.699219
+[2026.04.04-20.49.40:060][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-20.49.40:060][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25167.365234, Update Interval: 306.577362
+[2026.04.04-20.50.49:914][804]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.04-20.55.37:141][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25524.876953
+[2026.04.04-20.55.38:142][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-20.55.38:142][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25525.544922, Update Interval: 316.804108
+[2026.04.04-21.01.53:557][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25901.373047
+[2026.04.04-21.01.54:557][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-21.01.54:557][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25902.039062, Update Interval: 348.019043
